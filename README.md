@@ -80,7 +80,7 @@ keys to run the first cell. Keep hitting those keys to run each cell after that 
 Here is a recording of how the web application will look when you run the voila command:
 
 
-![Example]()
+![Example](https://github.com/talibkateeb/Hypothetical-Fintech-ETF-Analysis/blob/main/ETF-analyzer-web-app-vid.gif)
 
 ---
 ## License
